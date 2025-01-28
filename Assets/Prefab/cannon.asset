@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b44c36bd8cb4f344daf568a1e7390193, type: 3}
+  m_Name: cannon
+  m_EditorClassIdentifier: 
+  itemName: Cannon
+  itemModel: {fileID: 682628340447316379, guid: e0cf828f6b8c0ce44be0f87cbb02b439, type: 3}
